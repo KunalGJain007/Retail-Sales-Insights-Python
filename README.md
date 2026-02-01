@@ -26,6 +26,24 @@ Based on the visual analysis performed in the notebook, here are the primary tak
 - **Industry Insights:** Consumers working in **Healthcare, IT, and Aviation** sectors were the most frequent shoppers.
 - **Product Performance:** The most popular product categories by both order count and revenue were **Food, Clothing, and Electronics**.
 
+## 📊 Visualizations of Key Findings & Insights
+
+<table>
+  <tr>
+    <td align="center"><b>Age Group & Gender Analysis</b><br><img src="age_gender_sales.png" width="350"></td>
+    <td align="center"><b>Marital Status vs Sales</b><br><img src="marital_status_sales.png" width="350"></td>
+    <td align="center"><b>Top 10 States</b><br><img src="Top 10 States.png" width="350"></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Occupation & Gender</b><br><img src="occupation_gender_sales.png" width="400"></td>
+    <td align="center"><b>Top 10 Products</b><br><img src="Top 10 Products.png" width="400"></td>
+  </tr>
+</table>
+
+
 ## 🚀 Conclusion
 The analysis suggests that marketing campaigns targeting married women in high-tier states and specific corporate sectors (like Healthcare/IT) would yield the highest return on investment during the Diwali season.
 
